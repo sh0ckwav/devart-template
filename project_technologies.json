@@ -1,13 +1,18 @@
 {
     "technologies": {
         "apis": [
-            "insert apis"
+            "g+"
         ],
+        "languages": [
+            "c#",
+            "javascript"
+        ],,
         "platforms": [
-            "insert platforms"
+            "windows"
         ],
         "toolkits": [
-            "insert toolkits"
+            "kinect",
+            "unity"
         ]
     },
     "themes": [
